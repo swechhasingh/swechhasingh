@@ -12,7 +12,7 @@ Last summer, I worked on a cool side project: [Handwriting mimic app](https://yo
 
 For more details about this project [github](https://github.com/swechhachoudhary/Handwriting-synthesis). Have fun writing some cool stuff!!
 
-I'm fascinated by the field of machine learning and its potential in solving interdisciplinery problems. I'm open for collaboration to work on some cool and impactful ideas to solve problems at the intersection of computer vision and NLP. 
+I'm fascinated by the field of machine learning and its potential to solve various interdisciplinery problems. I'm open for collaboration to work on some cool and impactful ideas to solve problems at the intersection of computer vision and NLP. 
 
 
 In my spare time, you will find me
