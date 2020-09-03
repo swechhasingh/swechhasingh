@@ -4,7 +4,9 @@
 
 I'm pursuing a professional Master's in Machine Learning at [Mila](https://mila.quebec/en/person/swechha/), Université de Montréal. I did my Bachelor's in Electrical Engineering from IITK (Indian Institute of Technology Kanpur), India, in 2016. I have two years of experience building end-to-end ML systems in Computer Vision and NLP domain through various internships and course work. 
 
-I have worked on various machine learning techniques ranging from classical Matrix Factorization to deep neural networks such as CNNs, RNNs, Auto-encoder, Transformer, etc. I've studied various graduate courses: Machine Learning, Deep Learning, Computer Vision, NLP, and Probabilistic Graphical Models, and undergrad courses: Probability & Statistics, Linear Algebra, Data Structures and Algorithms, and Intro to C programming.
+:pushpin: As a part of my master's degree, I did six months internship at [Korbit AI](https://www.linkedin.com/company/korbit-ai/), where I worked on a **Contextual Spelling Correction** system for data science domain, and on **recommendation system** to predict students’ pause behavior in online video lectures.
+
+:pushpin: I have worked on various machine learning techniques ranging from classical Matrix Factorization to deep neural networks such as CNNs, RNNs, Auto-encoder, Transformer, etc. I've studied various graduate courses: Machine Learning, Deep Learning, Computer Vision, NLP, and Probabilistic Graphical Models, and undergrad courses: Probability & Statistics, Linear Algebra, Data Structures and Algorithms, and Intro to C programming.
 
 During my undergrad years, I also worked as an Android Developer, and after graduation, I spent ten months at Citibank, India as a Technology Analyst.
 
@@ -24,15 +26,14 @@ Apart from work, you will find me
 * reading fiction books :books:, The Hunger Games is my fav
 * playing badminton
 * last but not least, Netflix :movie_camera:
+-------
+<p align="center">
+  <i>Let's connect and chat!</i>
 
-
-
-🤝 To connect with me:
-
-:email: swechha16.05@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/swechha-71a76990/
-
+  <p align="center">
+    <a href="https://www.linkedin.com/in/swechha-71a76990/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:swechha16.05@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+</p>
 
 
 
