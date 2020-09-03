@@ -14,6 +14,17 @@ During my undergrad years, I also worked as an Android Developer, and after grad
 
 I'm fascinated by the field of machine learning and its potential to solve various interdisciplinary problems. I'm open for collaboration to work on some cool and impactful ideas to solve problems at the intersection of computer vision and NLP. 
 
+-------
+<p align="center">
+  <i>Let's connect and chat!</i>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/swechha-71a76990/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:swechha16.05@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+</p>
+
+-------
+
 
 Apart from work, you will find me
 * playing board games :game_die: with friends
@@ -24,14 +35,6 @@ Apart from work, you will find me
 * reading fiction books :books:, The Hunger Games is my fav
 * playing badminton
 * last but not least, Netflix :movie_camera:
--------
-<p align="center">
-  <i>Let's connect and chat!</i>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/swechha-71a76990/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:swechha16.05@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-</p>
 
 
 
