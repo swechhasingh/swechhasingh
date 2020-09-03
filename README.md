@@ -6,13 +6,11 @@ I'm pursuing a professional Master's in Machine Learning at [Mila](https://mila.
 
 :pushpin: As a part of my master's degree, I did six months internship at [Korbit AI](https://www.linkedin.com/company/korbit-ai/), where I worked on a **Contextual Spelling Correction** system for data science domain, and on **recommendation system** to predict students’ pause behavior in online video lectures.
 
+:pushpin: Last summer, I worked on a cool side project: [Handwriting mimic app](https://youtu.be/Ghsb3w0QACI); as a part of this project, I created an end-to-end ML system from implementing a ML model to building a website. **Using this app, you can generate text in your own handwriting style**. The ML model is a generative model for real-valued sequence data composed of stacked LSTM layers from [“Generating Sequences With Recurrent Neural Networks”](https://arxiv.org/pdf/1308.0850.pdf) paper by Alex Graves. For more details about this project, please go to [github](https://github.com/swechhachoudhary/Handwriting-synthesis). Have fun writing some cool stuff!!
+
 :pushpin: I have worked on various machine learning techniques ranging from classical Matrix Factorization to deep neural networks such as CNNs, RNNs, Auto-encoder, Transformer, etc. I've studied various graduate courses: Machine Learning, Deep Learning, Computer Vision, NLP, and Probabilistic Graphical Models, and undergrad courses: Probability & Statistics, Linear Algebra, Data Structures and Algorithms, and Intro to C programming.
 
 During my undergrad years, I also worked as an Android Developer, and after graduation, I spent ten months at Citibank, India as a Technology Analyst.
-
-Last summer, I worked on a cool side project: [Handwriting mimic app](https://youtu.be/Ghsb3w0QACI); as a part of this project, I created an end-to-end ML system from implementing a ML model to building a website. **Using this app, you can generate text in your own handwriting style**. The ML model is a generative model for real-valued sequence data composed of stacked LSTM layers from [“Generating Sequences With Recurrent Neural Networks”](https://arxiv.org/pdf/1308.0850.pdf) paper by Alex Graves.
-
-For more details about this project, please go to [github](https://github.com/swechhachoudhary/Handwriting-synthesis). Have fun writing some cool stuff!!
 
 I'm fascinated by the field of machine learning and its potential to solve various interdisciplinary problems. I'm open for collaboration to work on some cool and impactful ideas to solve problems at the intersection of computer vision and NLP. 
 
