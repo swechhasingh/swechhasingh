@@ -2,7 +2,7 @@
 
 🔭 I’m actively looking for full-time Machine Learning/Software Engineer position.
 
-I'm pursuing a professional Master's in Machine Learning at [Mila](https://mila.quebec/en/person/swechha/), Université de Montréal. I did my Bachelor's in Electrical Engineering from IITK (Indian Institute of Technology Kanpur), India, in 2016. I have two years of experience building end-to-end ML systems in Computer Vision and NLP domain through various internships and course work. 
+I'm pursuing a professional master's in Machine Learning at [Mila](https://mila.quebec/en/person/swechha/), Université de Montréal. I did my bachelor's in Electrical Engineering from IITK (Indian Institute of Technology Kanpur), India, in 2016. I have two years of experience building end-to-end ML systems in Computer Vision and NLP domain through various internships and course work. 
 
 :pushpin: As a part of my master's degree, I did six months internship at [Korbit AI](https://www.linkedin.com/company/korbit-ai/), where I worked on a **Contextual Spelling Correction** system for data science domain, and on **recommendation system** to predict students’ pause behavior in online video lectures.
 
