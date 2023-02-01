@@ -2,7 +2,13 @@
 
 🔭 I’m actively looking for full-time Machine Learning/Software Engineer position.
 
-I'm pursuing a professional **master's** in **Machine Learning** at [Mila](https://mila.quebec/en/person/swechha/), Université de Montréal. I did my bachelor's in Electrical Engineering from IITK (Indian Institute of Technology Kanpur), India, in 2016. I have **two years** of **experience** building end-to-end ML systems in **Computer Vision** and **NLP** domain through various internships and course work. 
+Passionate Machine Learning Engineer with two years of industry experience building end-to-end ML systems for genomics data (single-cell RNA sequencing data).
+
+Experience working with high-dimensional genomics data using VAE and VAE-GAN, autoregressive generative modeling of real-valued sequential data with RNNs (LSTMs), transfer learning using deep CNNs (ResNet, VGG), recommendation system using standard and neural Matrix Factorization, and DNN-based NLP systems (Contextual spelling correction) using hand-engineered features.
+
+Always on the lookout to explore new areas to apply my Machine Learning expertise.
+
+<!-- I'm pursuing a professional **master's** in **Machine Learning** at [Mila](https://mila.quebec/en/person/swechha/), Université de Montréal. I did my bachelor's in Electrical Engineering from IITK (Indian Institute of Technology Kanpur), India, in 2016. I have **two years** of **experience** building end-to-end ML systems in **Computer Vision** and **NLP** domain through various internships and course work. 
 
 :pushpin: As a part of my master's degree, I did six months internship at [Korbit AI](https://www.linkedin.com/company/korbit-ai/), an EdTech startup that is building a personalized and interactive learning platform to learn data science skills with a personal AI-powered tutor. During this internship, I worked on a **Contextual Spelling Correction** system for data science domain, and on a **recommendation system** to predict students’ pause behavior in online video lectures.
 
@@ -13,7 +19,7 @@ I'm pursuing a professional **master's** in **Machine Learning** at [Mila](https
 During my undergrad years, I also worked as an **Android Developer**, and after graduation, I spent ten months at Citibank, India as a **Technology Analyst**.
 
 I'm fascinated by the field of machine learning and its potential to solve various interdisciplinary problems. I'm open for collaboration to work on some cool and impactful ideas to solve problems at the intersection of computer vision and NLP. 
-
+ -->
 -------
 <p align="center">
   <i>Let's connect and chat!</i>
